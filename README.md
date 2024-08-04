@@ -12,7 +12,7 @@ To run this notebook, you will need:
 
 ### Running the Notebook
 
-1. Open the notebook in Google Colab by clicking [here](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-videos-with-sam-2.ipynb).
+1. Open the notebook in Google Colab by clicking [here](https://colab.research.google.com/drive/1Mc4K8tiDc_1kpmNDlPRAXFHvDKYwv8Go#scrollTo=bykHFOQwzk4h).
 2. Follow the instructions in the notebook to run each cell.
 3. Upload your video files when prompted.
 4. View the segmentation results in the output cells.
