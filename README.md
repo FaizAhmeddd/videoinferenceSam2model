@@ -25,17 +25,3 @@ To run this notebook, you will need:
 - **Model Application**: Applying the SAM-2 model to segment the videos.
 - **Results Visualization**: Visualizing the segmentation results.
 
-### Example Usage
-
-```python
-# Sample code to demonstrate usage
-import some_video_segmentation_library
-
-# Load the video
-video = some_video_segmentation_library.load_video('path_to_video')
-
-# Apply SAM-2 model
-segmented_video = some_video_segmentation_library.apply_sam2(video)
-
-# Visualize the results
-some_video_segmentation_library.visualize(segmented_video)
